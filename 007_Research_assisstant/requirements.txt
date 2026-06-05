@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-groq
+langgraph
+langsmith
+pdfplumber
+python-dotenv
+urllib3

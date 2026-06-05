@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-groq
+pandas
+plotly
+openai
+python-dotenv
+pydantic

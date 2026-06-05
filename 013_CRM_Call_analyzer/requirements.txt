@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic-settings
+langchain
+langchain-openai
+langchain-community
+crewai
+crewai-tools
+pydub
+ffmpeg-python
+onnxruntime
+python-dotenv

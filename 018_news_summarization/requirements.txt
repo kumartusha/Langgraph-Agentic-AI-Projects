@@ -1,0 +1,10 @@
+langgraph
+langchain-openai
+langchain-core
+pydantic
+pydantic-settings
+python-dotenv
+newsapi-python
+beautifulsoup4
+rich
+requests
