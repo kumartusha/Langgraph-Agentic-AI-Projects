@@ -1,5 +1,5 @@
 ROW_ID,SUBJECT_ID,HADM_ID,CHARTDATE,CHARTTIME,STORETIME,CATEGORY,DESCRIPTION,CGID,ISERROR,TEXT
-1,10006,142345,2164-11-01,2164-11-01 17:15:00,2164-11-01 17:15:00,Discharge summary,Report,48348,0,"Admission Date:  [2164-10-23]       Discharge Date:  [2164-11-01]
+1,10006,142345,2164-11-01,2164-11-01 17:15:00,2164-11-01 17:15:00,Discharge summary,Report,49154,0,"Admission Date:  [2164-10-23]       Discharge Date:  [2164-11-01]
 Date of Birth:   [2094-03-05]      Sex:  F
 Service:  MEDICINE
 
@@ -61,7 +61,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-2,10011,105331,2126-08-28,2126-08-28 18:59:00,2126-08-28 18:59:00,Discharge summary,Report,28936,0,"Admission Date:  [2126-08-14]       Discharge Date:  [2126-08-28]
+2,10011,105331,2126-08-28,2126-08-28 18:59:00,2126-08-28 18:59:00,Discharge summary,Report,37671,0,"Admission Date:  [2126-08-14]       Discharge Date:  [2126-08-28]
 Date of Birth:   [2090-06-05]      Sex:  F
 Service:  MEDICINE
 
@@ -90,7 +90,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-3,10013,165520,2125-10-07,2125-10-07 15:13:00,2125-10-07 15:13:00,Discharge summary,Report,61871,0,"Admission Date:  [2125-10-04]       Discharge Date:  [2125-10-07]
+3,10013,165520,2125-10-07,2125-10-07 15:13:00,2125-10-07 15:13:00,Discharge summary,Report,25947,0,"Admission Date:  [2125-10-04]       Discharge Date:  [2125-10-07]
 Date of Birth:   [2038-09-03]      Sex:  F
 Service:  MEDICINE
 
@@ -138,7 +138,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-4,10017,199207,2149-06-03,2149-06-03 18:42:00,2149-06-03 18:42:00,Discharge summary,Report,55322,0,"Admission Date:  [2149-05-26]       Discharge Date:  [2149-06-03]
+4,10017,199207,2149-06-03,2149-06-03 18:42:00,2149-06-03 18:42:00,Discharge summary,Report,90514,0,"Admission Date:  [2149-05-26]       Discharge Date:  [2149-06-03]
 Date of Birth:   [2075-09-21]      Sex:  F
 Service:  MEDICINE
 
@@ -218,7 +218,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-5,10019,177759,2163-05-15,2163-05-15 12:00:00,2163-05-15 12:00:00,Discharge summary,Report,40297,0,"Admission Date:  [2163-05-14]       Discharge Date:  [2163-05-15]
+5,10019,177759,2163-05-15,2163-05-15 12:00:00,2163-05-15 12:00:00,Discharge summary,Report,83209,0,"Admission Date:  [2163-05-14]       Discharge Date:  [2163-05-15]
 Date of Birth:   [2114-06-20]      Sex:  M
 Service:  MEDICINE
 
@@ -278,7 +278,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-6,10026,103770,2195-05-24,2195-05-24 11:45:00,2195-05-24 11:45:00,Discharge summary,Report,92073,0,"Admission Date:  [2195-05-17]       Discharge Date:  [2195-05-24]
+6,10026,103770,2195-05-24,2195-05-24 11:45:00,2195-05-24 11:45:00,Discharge summary,Report,86678,0,"Admission Date:  [2195-05-17]       Discharge Date:  [2195-05-24]
 Date of Birth:   [1895-05-17]      Sex:  F
 Service:  MEDICINE
 
@@ -332,7 +332,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-7,10027,199395,2190-07-25,2190-07-25 14:00:00,2190-07-25 14:00:00,Discharge summary,Report,60495,0,"Admission Date:  [2190-07-13]       Discharge Date:  [2190-07-25]
+7,10027,199395,2190-07-25,2190-07-25 14:00:00,2190-07-25 14:00:00,Discharge summary,Report,27701,0,"Admission Date:  [2190-07-13]       Discharge Date:  [2190-07-25]
 Date of Birth:   [2108-01-15]      Sex:  F
 Service:  MEDICINE
 
@@ -405,7 +405,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-8,10029,132349,2139-10-02,2139-10-02 14:29:00,2139-10-02 14:29:00,Discharge summary,Report,45668,0,"Admission Date:  [2139-09-22]       Discharge Date:  [2139-10-02]
+8,10029,132349,2139-10-02,2139-10-02 14:29:00,2139-10-02 14:29:00,Discharge summary,Report,15251,0,"Admission Date:  [2139-09-22]       Discharge Date:  [2139-10-02]
 Date of Birth:   [2061-04-10]      Sex:  M
 Service:  MEDICINE
 
@@ -465,7 +465,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-9,10032,140372,2138-04-15,2138-04-15 14:35:00,2138-04-15 14:35:00,Discharge summary,Report,75032,0,"Admission Date:  [2138-04-02]       Discharge Date:  [2138-04-15]
+9,10032,140372,2138-04-15,2138-04-15 14:35:00,2138-04-15 14:35:00,Discharge summary,Report,28700,0,"Admission Date:  [2138-04-02]       Discharge Date:  [2138-04-15]
 Date of Birth:   [2050-03-29]      Sex:  M
 Service:  MEDICINE
 
@@ -523,7 +523,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-10,10033,157235,2132-12-08,2132-12-08 15:15:00,2132-12-08 15:15:00,Discharge summary,Report,45408,0,"Admission Date:  [2132-12-05]       Discharge Date:  [2132-12-08]
+10,10033,157235,2132-12-08,2132-12-08 15:15:00,2132-12-08 15:15:00,Discharge summary,Report,31779,0,"Admission Date:  [2132-12-05]       Discharge Date:  [2132-12-08]
 Date of Birth:   [2051-04-21]      Sex:  F
 Service:  MEDICINE
 
@@ -572,7 +572,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-11,10035,110244,2129-03-07,2129-03-07 18:19:00,2129-03-07 18:19:00,Discharge summary,Report,40513,0,"Admission Date:  [2129-03-03]       Discharge Date:  [2129-03-07]
+11,10035,110244,2129-03-07,2129-03-07 18:19:00,2129-03-07 18:19:00,Discharge summary,Report,85153,0,"Admission Date:  [2129-03-03]       Discharge Date:  [2129-03-07]
 Date of Birth:   [2053-04-13]      Sex:  M
 Service:  MEDICINE
 
@@ -621,7 +621,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-12,10036,189483,2185-03-26,2185-03-26 09:15:00,2185-03-26 09:15:00,Discharge summary,Report,54741,0,"Admission Date:  [2185-03-24]       Discharge Date:  [2185-03-26]
+12,10036,189483,2185-03-26,2185-03-26 09:15:00,2185-03-26 09:15:00,Discharge summary,Report,70460,0,"Admission Date:  [2185-03-24]       Discharge Date:  [2185-03-26]
 Date of Birth:   [1885-03-24]      Sex:  F
 Service:  MEDICINE
 
@@ -667,7 +667,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-13,10038,111115,2144-02-21,2144-02-21 13:30:00,2144-02-21 13:30:00,Discharge summary,Report,96762,0,"Admission Date:  [2144-02-09]       Discharge Date:  [2144-02-21]
+13,10038,111115,2144-02-21,2144-02-21 13:30:00,2144-02-21 13:30:00,Discharge summary,Report,83953,0,"Admission Date:  [2144-02-09]       Discharge Date:  [2144-02-21]
 Date of Birth:   [2056-01-27]      Sex:  F
 Service:  MEDICINE
 
@@ -730,7 +730,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-14,10040,157839,2147-02-27,2147-02-27 16:19:00,2147-02-27 16:19:00,Discharge summary,Report,67555,0,"Admission Date:  [2147-02-23]       Discharge Date:  [2147-02-27]
+14,10040,157839,2147-02-27,2147-02-27 16:19:00,2147-02-27 16:19:00,Discharge summary,Report,62947,0,"Admission Date:  [2147-02-23]       Discharge Date:  [2147-02-27]
 Date of Birth:   [2061-10-23]      Sex:  F
 Service:  MEDICINE
 
@@ -790,7 +790,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-15,10042,148562,2147-02-17,2147-02-17 19:00:00,2147-02-17 19:00:00,Discharge summary,Report,14794,0,"Admission Date:  [2147-02-06]       Discharge Date:  [2147-02-17]
+15,10042,148562,2147-02-17,2147-02-17 19:00:00,2147-02-17 19:00:00,Discharge summary,Report,67446,0,"Admission Date:  [2147-02-06]       Discharge Date:  [2147-02-17]
 Date of Birth:   [2076-05-06]      Sex:  M
 Service:  MEDICINE
 
@@ -860,7 +860,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-16,10043,168674,2185-04-26,2185-04-26 18:20:00,2185-04-26 18:20:00,Discharge summary,Report,10318,0,"Admission Date:  [2185-04-14]       Discharge Date:  [2185-04-26]
+16,10043,168674,2185-04-26,2185-04-26 18:20:00,2185-04-26 18:20:00,Discharge summary,Report,53893,0,"Admission Date:  [2185-04-14]       Discharge Date:  [2185-04-26]
 Date of Birth:   [2109-04-07]      Sex:  M
 Service:  MEDICINE
 
@@ -928,7 +928,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-17,10044,124073,2152-10-11,2152-10-11 15:42:00,2152-10-11 15:42:00,Discharge summary,Report,83268,0,"Admission Date:  [2152-10-02]       Discharge Date:  [2152-10-11]
+17,10044,124073,2152-10-11,2152-10-11 15:42:00,2152-10-11 15:42:00,Discharge summary,Report,58521,0,"Admission Date:  [2152-10-02]       Discharge Date:  [2152-10-11]
 Date of Birth:   [2071-02-11]      Sex:  F
 Service:  MEDICINE
 
@@ -990,7 +990,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-18,10045,126949,2129-12-01,2129-12-01 01:45:00,2129-12-01 01:45:00,Discharge summary,Report,81945,0,"Admission Date:  [2129-11-24]       Discharge Date:  [2129-12-01]
+18,10045,126949,2129-12-01,2129-12-01 01:45:00,2129-12-01 01:45:00,Discharge summary,Report,77462,0,"Admission Date:  [2129-11-24]       Discharge Date:  [2129-12-01]
 Date of Birth:   [2061-03-25]      Sex:  F
 Service:  MEDICINE
 
@@ -1092,7 +1092,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-19,10046,133110,2194-08-06,2194-08-06 15:12:00,2194-08-06 15:12:00,Discharge summary,Report,30935,0,"Admission Date:  [2194-07-26]       Discharge Date:  [2194-08-06]
+19,10046,133110,2194-08-06,2194-08-06 15:12:00,2194-08-06 15:12:00,Discharge summary,Report,54666,0,"Admission Date:  [2194-07-26]       Discharge Date:  [2194-08-06]
 Date of Birth:   [2141-03-15]      Sex:  F
 Service:  MEDICINE
 
@@ -1121,7 +1121,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-20,10056,100375,2129-05-06,2129-05-06 13:40:00,2129-05-06 13:40:00,Discharge summary,Report,12413,0,"Admission Date:  [2129-05-02]       Discharge Date:  [2129-05-06]
+20,10056,100375,2129-05-06,2129-05-06 13:40:00,2129-05-06 13:40:00,Discharge summary,Report,83483,0,"Admission Date:  [2129-05-02]       Discharge Date:  [2129-05-06]
 Date of Birth:   [2046-02-27]      Sex:  F
 Service:  MEDICINE
 
@@ -1175,7 +1175,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-21,10059,142582,2150-08-13,2150-08-13 11:33:00,2150-08-13 11:33:00,Discharge summary,Report,43589,0,"Admission Date:  [2150-08-07]       Discharge Date:  [2150-08-13]
+21,10059,142582,2150-08-13,2150-08-13 11:33:00,2150-08-13 11:33:00,Discharge summary,Report,36755,0,"Admission Date:  [2150-08-07]       Discharge Date:  [2150-08-13]
 Date of Birth:   [2081-01-03]      Sex:  M
 Service:  MEDICINE
 
@@ -1222,7 +1222,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-22,10059,122098,2150-08-29,2150-08-29 18:20:00,2150-08-29 18:20:00,Discharge summary,Report,69011,0,"Admission Date:  [2150-08-22]       Discharge Date:  [2150-08-29]
+22,10059,122098,2150-08-29,2150-08-29 18:20:00,2150-08-29 18:20:00,Discharge summary,Report,23927,0,"Admission Date:  [2150-08-22]       Discharge Date:  [2150-08-29]
 Date of Birth:   [2081-01-03]      Sex:  M
 Service:  MEDICINE
 
@@ -1290,7 +1290,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-23,10061,145203,2107-02-10,2107-02-10 11:30:00,2107-02-10 11:30:00,Discharge summary,Report,64804,0,"Admission Date:  [2107-01-16]       Discharge Date:  [2107-02-10]
+23,10061,145203,2107-02-10,2107-02-10 11:30:00,2107-02-10 11:30:00,Discharge summary,Report,91318,0,"Admission Date:  [2107-01-16]       Discharge Date:  [2107-02-10]
 Date of Birth:   [2031-05-19]      Sex:  F
 Service:  MEDICINE
 
@@ -1387,7 +1387,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-24,10064,111761,2127-03-19,2127-03-19 18:09:00,2127-03-19 18:09:00,Discharge summary,Report,87085,0,"Admission Date:  [2127-03-19]       Discharge Date:  [2127-03-19]
+24,10064,111761,2127-03-19,2127-03-19 18:09:00,2127-03-19 18:09:00,Discharge summary,Report,79968,0,"Admission Date:  [2127-03-19]       Discharge Date:  [2127-03-19]
 Date of Birth:   [2058-04-23]      Sex:  M
 Service:  MEDICINE
 
@@ -1424,7 +1424,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-25,10065,183314,2189-09-20,2189-09-20 14:00:00,2189-09-20 14:00:00,Discharge summary,Report,21872,0,"Admission Date:  [2189-09-08]       Discharge Date:  [2189-09-20]
+25,10065,183314,2189-09-20,2189-09-20 14:00:00,2189-09-20 14:00:00,Discharge summary,Report,64904,0,"Admission Date:  [2189-09-08]       Discharge Date:  [2189-09-20]
 Date of Birth:   [2111-07-18]      Sex:  F
 Service:  MEDICINE
 
@@ -1492,7 +1492,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-26,10067,160442,2130-10-06,2130-10-06 02:29:00,2130-10-06 02:29:00,Discharge summary,Report,37417,0,"Admission Date:  [2130-10-06]       Discharge Date:  [2130-10-06]
+26,10067,160442,2130-10-06,2130-10-06 02:29:00,2130-10-06 02:29:00,Discharge summary,Report,77272,0,"Admission Date:  [2130-10-06]       Discharge Date:  [2130-10-06]
 Date of Birth:   [2101-06-10]      Sex:  M
 Service:  MEDICINE
 
@@ -1521,7 +1521,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-27,10069,146672,2188-02-27,2188-02-27 18:41:00,2188-02-27 18:41:00,Discharge summary,Report,93168,0,"Admission Date:  [2188-02-08]       Discharge Date:  [2188-02-27]
+27,10069,146672,2188-02-27,2188-02-27 18:41:00,2188-02-27 18:41:00,Discharge summary,Report,91102,0,"Admission Date:  [2188-02-08]       Discharge Date:  [2188-02-27]
 Date of Birth:   [2146-10-23]      Sex:  F
 Service:  MEDICINE
 
@@ -1550,7 +1550,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-28,10074,170119,2167-02-19,2167-02-19 15:30:00,2167-02-19 15:30:00,Discharge summary,Report,25574,0,"Admission Date:  [2167-02-11]       Discharge Date:  [2167-02-19]
+28,10074,170119,2167-02-19,2167-02-19 15:30:00,2167-02-19 15:30:00,Discharge summary,Report,37302,0,"Admission Date:  [2167-02-11]       Discharge Date:  [2167-02-19]
 Date of Birth:   [2081-12-26]      Sex:  M
 Service:  MEDICINE
 
@@ -1609,7 +1609,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-29,10076,198503,2107-03-30,2107-03-30 12:00:00,2107-03-30 12:00:00,Discharge summary,Report,28825,0,"Admission Date:  [2107-03-21]       Discharge Date:  [2107-03-30]
+29,10076,198503,2107-03-30,2107-03-30 12:00:00,2107-03-30 12:00:00,Discharge summary,Report,94649,0,"Admission Date:  [2107-03-21]       Discharge Date:  [2107-03-30]
 Date of Birth:   [2038-05-10]      Sex:  M
 Service:  MEDICINE
 
@@ -1677,7 +1677,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-30,10083,134993,2192-12-07,2192-12-07 16:30:00,2192-12-07 16:30:00,Discharge summary,Report,22452,0,"Admission Date:  [2192-11-20]       Discharge Date:  [2192-12-07]
+30,10083,134993,2192-12-07,2192-12-07 16:30:00,2192-12-07 16:30:00,Discharge summary,Report,94751,0,"Admission Date:  [2192-11-20]       Discharge Date:  [2192-12-07]
 Date of Birth:   [2110-03-25]      Sex:  F
 Service:  MEDICINE
 
@@ -1756,7 +1756,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-31,10088,169938,2107-01-11,2107-01-11 15:45:00,2107-01-11 15:45:00,Discharge summary,Report,85792,0,"Admission Date:  [2107-01-04]       Discharge Date:  [2107-01-11]
+31,10088,169938,2107-01-11,2107-01-11 15:45:00,2107-01-11 15:45:00,Discharge summary,Report,96119,0,"Admission Date:  [2107-01-04]       Discharge Date:  [2107-01-11]
 Date of Birth:   [2029-07-09]      Sex:  M
 Service:  MEDICINE
 
@@ -1832,7 +1832,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-32,10088,168233,2107-02-10,2107-02-10 12:00:00,2107-02-10 12:00:00,Discharge summary,Report,25299,0,"Admission Date:  [2107-01-29]       Discharge Date:  [2107-02-10]
+32,10088,168233,2107-02-10,2107-02-10 12:00:00,2107-02-10 12:00:00,Discharge summary,Report,92368,0,"Admission Date:  [2107-01-29]       Discharge Date:  [2107-02-10]
 Date of Birth:   [2029-07-09]      Sex:  M
 Service:  MEDICINE
 
@@ -1894,7 +1894,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-33,10088,149044,2107-05-18,2107-05-18 13:30:00,2107-05-18 13:30:00,Discharge summary,Report,44060,0,"Admission Date:  [2107-05-12]       Discharge Date:  [2107-05-18]
+33,10088,149044,2107-05-18,2107-05-18 13:30:00,2107-05-18 13:30:00,Discharge summary,Report,90452,0,"Admission Date:  [2107-05-12]       Discharge Date:  [2107-05-18]
 Date of Birth:   [2029-07-09]      Sex:  M
 Service:  MEDICINE
 
@@ -1942,7 +1942,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-34,10089,190301,2132-08-08,2132-08-08 02:15:00,2132-08-08 02:15:00,Discharge summary,Report,64262,0,"Admission Date:  [2132-08-05]       Discharge Date:  [2132-08-08]
+34,10089,190301,2132-08-08,2132-08-08 02:15:00,2132-08-08 02:15:00,Discharge summary,Report,35218,0,"Admission Date:  [2132-08-05]       Discharge Date:  [2132-08-08]
 Date of Birth:   [2046-04-18]      Sex:  M
 Service:  MEDICINE
 
@@ -1989,7 +1989,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-35,10090,176805,2124-01-14,2124-01-14 19:00:00,2124-01-14 19:00:00,Discharge summary,Report,73114,0,"Admission Date:  [2124-01-12]       Discharge Date:  [2124-01-14]
+35,10090,176805,2124-01-14,2124-01-14 19:00:00,2124-01-14 19:00:00,Discharge summary,Report,61029,0,"Admission Date:  [2124-01-12]       Discharge Date:  [2124-01-14]
 Date of Birth:   [2096-02-27]      Sex:  M
 Service:  MEDICINE
 
@@ -2037,7 +2037,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-36,10093,165393,2141-01-26,2141-01-26 03:05:00,2141-01-26 03:05:00,Discharge summary,Report,49154,0,"Admission Date:  [2141-01-25]       Discharge Date:  [2141-01-26]
+36,10093,165393,2141-01-26,2141-01-26 03:05:00,2141-01-26 03:05:00,Discharge summary,Report,93393,0,"Admission Date:  [2141-01-25]       Discharge Date:  [2141-01-26]
 Date of Birth:   [2053-09-08]      Sex:  M
 Service:  MEDICINE
 
@@ -2090,7 +2090,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-37,10094,168074,2180-03-10,2180-03-10 17:35:00,2180-03-10 17:35:00,Discharge summary,Report,58782,0,"Admission Date:  [2180-02-29]       Discharge Date:  [2180-03-10]
+37,10094,168074,2180-03-10,2180-03-10 17:35:00,2180-03-10 17:35:00,Discharge summary,Report,16007,0,"Admission Date:  [2180-02-29]       Discharge Date:  [2180-03-10]
 Date of Birth:   [1880-02-29]      Sex:  M
 Service:  MEDICINE
 
@@ -2160,7 +2160,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-38,10094,122928,2180-03-20,2180-03-20 18:00:00,2180-03-20 18:00:00,Discharge summary,Report,75376,0,"Admission Date:  [2180-03-15]       Discharge Date:  [2180-03-20]
+38,10094,122928,2180-03-20,2180-03-20 18:00:00,2180-03-20 18:00:00,Discharge summary,Report,97458,0,"Admission Date:  [2180-03-15]       Discharge Date:  [2180-03-20]
 Date of Birth:   [1880-02-29]      Sex:  M
 Service:  MEDICINE
 
@@ -2233,7 +2233,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-39,10098,180685,2170-12-03,2170-12-03 15:55:00,2170-12-03 15:55:00,Discharge summary,Report,53398,0,"Admission Date:  [2170-12-02]       Discharge Date:  [2170-12-03]
+39,10098,180685,2170-12-03,2170-12-03 15:55:00,2170-12-03 15:55:00,Discharge summary,Report,29090,0,"Admission Date:  [2170-12-02]       Discharge Date:  [2170-12-03]
 Date of Birth:   [2150-12-07]      Sex:  F
 Service:  MEDICINE
 
@@ -2288,7 +2288,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-40,10101,142539,2128-03-24,2128-03-24 19:00:00,2128-03-24 19:00:00,Discharge summary,Report,93131,0,"Admission Date:  [2128-03-22]       Discharge Date:  [2128-03-24]
+40,10101,142539,2128-03-24,2128-03-24 19:00:00,2128-03-24 19:00:00,Discharge summary,Report,30333,0,"Admission Date:  [2128-03-22]       Discharge Date:  [2128-03-24]
 Date of Birth:   [2055-07-18]      Sex:  M
 Service:  MEDICINE
 
@@ -2333,7 +2333,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-41,10102,164869,2105-06-11,2105-06-11 02:20:00,2105-06-11 02:20:00,Discharge summary,Report,83189,0,"Admission Date:  [2105-05-29]       Discharge Date:  [2105-06-11]
+41,10102,164869,2105-06-11,2105-06-11 02:20:00,2105-06-11 02:20:00,Discharge summary,Report,45869,0,"Admission Date:  [2105-05-29]       Discharge Date:  [2105-06-11]
 Date of Birth:   [2035-04-13]      Sex:  M
 Service:  MEDICINE
 
@@ -2408,7 +2408,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-42,10104,177678,2120-08-31,2120-08-31 13:12:00,2120-08-31 13:12:00,Discharge summary,Report,76673,0,"Admission Date:  [2120-08-24]       Discharge Date:  [2120-08-31]
+42,10104,177678,2120-08-31,2120-08-31 13:12:00,2120-08-31 13:12:00,Discharge summary,Report,89773,0,"Admission Date:  [2120-08-24]       Discharge Date:  [2120-08-31]
 Date of Birth:   [2050-02-16]      Sex:  F
 Service:  MEDICINE
 
@@ -2477,7 +2477,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-43,10106,133283,2161-09-19,2161-09-19 17:00:00,2161-09-19 17:00:00,Discharge summary,Report,56627,0,"Admission Date:  [2161-09-14]       Discharge Date:  [2161-09-19]
+43,10106,133283,2161-09-19,2161-09-19 17:00:00,2161-09-19 17:00:00,Discharge summary,Report,57301,0,"Admission Date:  [2161-09-14]       Discharge Date:  [2161-09-19]
 Date of Birth:   [2097-12-16]      Sex:  M
 Service:  MEDICINE
 
@@ -2531,7 +2531,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-44,10111,174739,2180-02-01,2180-02-01 17:17:00,2180-02-01 17:17:00,Discharge summary,Report,15869,0,"Admission Date:  [2180-01-14]       Discharge Date:  [2180-02-01]
+44,10111,174739,2180-02-01,2180-02-01 17:17:00,2180-02-01 17:17:00,Discharge summary,Report,47199,0,"Admission Date:  [2180-01-14]       Discharge Date:  [2180-02-01]
 Date of Birth:   [2097-01-16]      Sex:  F
 Service:  MEDICINE
 
@@ -2602,7 +2602,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-45,10112,188574,2148-01-19,2148-01-19 15:03:00,2148-01-19 15:03:00,Discharge summary,Report,56317,0,"Admission Date:  [2148-01-13]       Discharge Date:  [2148-01-19]
+45,10112,188574,2148-01-19,2148-01-19 15:03:00,2148-01-19 15:03:00,Discharge summary,Report,82462,0,"Admission Date:  [2148-01-13]       Discharge Date:  [2148-01-19]
 Date of Birth:   [2069-05-05]      Sex:  F
 Service:  MEDICINE
 
@@ -2652,7 +2652,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-46,10114,167957,2171-11-06,2171-11-06 14:59:00,2171-11-06 14:59:00,Discharge summary,Report,19157,0,"Admission Date:  [2171-10-30]       Discharge Date:  [2171-11-06]
+46,10114,167957,2171-11-06,2171-11-06 14:59:00,2171-11-06 14:59:00,Discharge summary,Report,28604,0,"Admission Date:  [2171-10-30]       Discharge Date:  [2171-11-06]
 Date of Birth:   [2099-03-17]      Sex:  F
 Service:  MEDICINE
 
@@ -2681,7 +2681,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-47,10117,187023,2138-06-11,2138-06-11 10:16:00,2138-06-11 10:16:00,Discharge summary,Report,59751,0,"Admission Date:  [2138-06-05]       Discharge Date:  [2138-06-11]
+47,10117,187023,2138-06-11,2138-06-11 10:16:00,2138-06-11 10:16:00,Discharge summary,Report,96048,0,"Admission Date:  [2138-06-05]       Discharge Date:  [2138-06-11]
 Date of Birth:   [2072-05-05]      Sex:  F
 Service:  MEDICINE
 
@@ -2710,7 +2710,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-48,10117,105150,2138-11-18,2138-11-18 23:13:00,2138-11-18 23:13:00,Discharge summary,Report,28080,0,"Admission Date:  [2138-11-09]       Discharge Date:  [2138-11-18]
+48,10117,105150,2138-11-18,2138-11-18 23:13:00,2138-11-18 23:13:00,Discharge summary,Report,13528,0,"Admission Date:  [2138-11-09]       Discharge Date:  [2138-11-18]
 Date of Birth:   [2072-05-05]      Sex:  F
 Service:  MEDICINE
 
@@ -2766,7 +2766,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-49,10119,157466,2117-08-19,2117-08-19 16:15:00,2117-08-19 16:15:00,Discharge summary,Report,37919,0,"Admission Date:  [2117-08-05]       Discharge Date:  [2117-08-19]
+49,10119,157466,2117-08-19,2117-08-19 16:15:00,2117-08-19 16:15:00,Discharge summary,Report,62432,0,"Admission Date:  [2117-08-05]       Discharge Date:  [2117-08-19]
 Date of Birth:   [2036-03-10]      Sex:  M
 Service:  MEDICINE
 
@@ -2828,7 +2828,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-50,10119,165436,2117-08-26,2117-08-26 13:00:00,2117-08-26 13:00:00,Discharge summary,Report,82459,0,"Admission Date:  [2117-08-21]       Discharge Date:  [2117-08-26]
+50,10119,165436,2117-08-26,2117-08-26 13:00:00,2117-08-26 13:00:00,Discharge summary,Report,82622,0,"Admission Date:  [2117-08-21]       Discharge Date:  [2117-08-26]
 Date of Birth:   [2036-03-10]      Sex:  M
 Service:  MEDICINE
 
@@ -2874,7 +2874,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-51,10120,193924,2115-05-15,2115-05-15 02:15:00,2115-05-15 02:15:00,Discharge summary,Report,52072,0,"Admission Date:  [2115-05-12]       Discharge Date:  [2115-05-15]
+51,10120,193924,2115-05-15,2115-05-15 02:15:00,2115-05-15 02:15:00,Discharge summary,Report,83850,0,"Admission Date:  [2115-05-12]       Discharge Date:  [2115-05-15]
 Date of Birth:   [2088-05-05]      Sex:  M
 Service:  MEDICINE
 
@@ -2943,7 +2943,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-52,10124,182664,2192-04-05,2192-04-05 14:21:00,2192-04-05 14:21:00,Discharge summary,Report,18886,0,"Admission Date:  [2192-03-26]       Discharge Date:  [2192-04-05]
+52,10124,182664,2192-04-05,2192-04-05 14:21:00,2192-04-05 14:21:00,Discharge summary,Report,46717,0,"Admission Date:  [2192-03-26]       Discharge Date:  [2192-04-05]
 Date of Birth:   [2108-12-20]      Sex:  F
 Service:  MEDICINE
 
@@ -3018,7 +3018,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-53,10124,170883,2192-05-15,2192-05-15 19:28:00,2192-05-15 19:28:00,Discharge summary,Report,52277,0,"Admission Date:  [2192-04-16]       Discharge Date:  [2192-05-15]
+53,10124,170883,2192-05-15,2192-05-15 19:28:00,2192-05-15 19:28:00,Discharge summary,Report,74811,0,"Admission Date:  [2192-04-16]       Discharge Date:  [2192-05-15]
 Date of Birth:   [2108-12-20]      Sex:  F
 Service:  MEDICINE
 
@@ -3119,7 +3119,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-54,10126,160445,2171-08-16,2171-08-16 12:00:00,2171-08-16 12:00:00,Discharge summary,Report,77977,0,"Admission Date:  [2171-07-12]       Discharge Date:  [2171-08-16]
+54,10126,160445,2171-08-16,2171-08-16 12:00:00,2171-08-16 12:00:00,Discharge summary,Report,65286,0,"Admission Date:  [2171-07-12]       Discharge Date:  [2171-08-16]
 Date of Birth:   [2127-06-04]      Sex:  F
 Service:  MEDICINE
 
@@ -3223,7 +3223,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-55,10127,182839,2198-07-20,2198-07-20 14:56:00,2198-07-20 14:56:00,Discharge summary,Report,85749,0,"Admission Date:  [2198-06-28]       Discharge Date:  [2198-07-20]
+55,10127,182839,2198-07-20,2198-07-20 14:56:00,2198-07-20 14:56:00,Discharge summary,Report,94933,0,"Admission Date:  [2198-06-28]       Discharge Date:  [2198-07-20]
 Date of Birth:   [2181-04-19]      Sex:  F
 Service:  MEDICINE
 
@@ -3313,7 +3313,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-56,10130,156668,2161-02-19,2161-02-19 14:05:00,2161-02-19 14:05:00,Discharge summary,Report,85016,0,"Admission Date:  [2161-01-30]       Discharge Date:  [2161-02-19]
+56,10130,156668,2161-02-19,2161-02-19 14:05:00,2161-02-19 14:05:00,Discharge summary,Report,82445,0,"Admission Date:  [2161-01-30]       Discharge Date:  [2161-02-19]
 Date of Birth:   [2109-07-08]      Sex:  M
 Service:  MEDICINE
 
@@ -3342,7 +3342,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-57,10132,197611,2123-09-17,2123-09-17 14:00:00,2123-09-17 14:00:00,Discharge summary,Report,46702,0,"Admission Date:  [2123-08-23]       Discharge Date:  [2123-09-17]
+57,10132,197611,2123-09-17,2123-09-17 14:00:00,2123-09-17 14:00:00,Discharge summary,Report,72830,0,"Admission Date:  [2123-08-23]       Discharge Date:  [2123-09-17]
 Date of Birth:   [2058-04-23]      Sex:  F
 Service:  MEDICINE
 
@@ -3418,7 +3418,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-58,40124,126179,2130-02-10,2130-02-10 17:39:00,2130-02-10 17:39:00,Discharge summary,Report,71133,0,"Admission Date:  [2130-02-04]       Discharge Date:  [2130-02-10]
+58,40124,126179,2130-02-10,2130-02-10 17:39:00,2130-02-10 17:39:00,Discharge summary,Report,13443,0,"Admission Date:  [2130-02-04]       Discharge Date:  [2130-02-10]
 Date of Birth:   [2063-07-05]      Sex:  F
 Service:  MEDICINE
 
@@ -3484,7 +3484,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-59,40124,146893,2130-08-18,2130-08-18 15:30:00,2130-08-18 15:30:00,Discharge summary,Report,44567,0,"Admission Date:  [2130-08-12]       Discharge Date:  [2130-08-18]
+59,40124,146893,2130-08-18,2130-08-18 15:30:00,2130-08-18 15:30:00,Discharge summary,Report,40506,0,"Admission Date:  [2130-08-12]       Discharge Date:  [2130-08-18]
 Date of Birth:   [2063-07-05]      Sex:  F
 Service:  MEDICINE
 
@@ -3552,7 +3552,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-60,40177,198480,2169-05-12,2169-05-12 08:54:00,2169-05-12 08:54:00,Discharge summary,Report,20769,0,"Admission Date:  [2169-05-06]       Discharge Date:  [2169-05-12]
+60,40177,198480,2169-05-12,2169-05-12 08:54:00,2169-05-12 08:54:00,Discharge summary,Report,80227,0,"Admission Date:  [2169-05-06]       Discharge Date:  [2169-05-12]
 Date of Birth:   [2082-06-27]      Sex:  M
 Service:  MEDICINE
 
@@ -3624,7 +3624,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-61,40204,175237,2155-12-24,2155-12-24 14:39:00,2155-12-24 14:39:00,Discharge summary,Report,58824,0,"Admission Date:  [2155-12-16]       Discharge Date:  [2155-12-24]
+61,40204,175237,2155-12-24,2155-12-24 14:39:00,2155-12-24 14:39:00,Discharge summary,Report,78472,0,"Admission Date:  [2155-12-16]       Discharge Date:  [2155-12-24]
 Date of Birth:   [2079-08-17]      Sex:  M
 Service:  MEDICINE
 
@@ -3676,7 +3676,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-62,40277,127703,2151-08-17,2151-08-17 19:00:00,2151-08-17 19:00:00,Discharge summary,Report,53735,0,"Admission Date:  [2151-08-13]       Discharge Date:  [2151-08-17]
+62,40277,127703,2151-08-17,2151-08-17 19:00:00,2151-08-17 19:00:00,Discharge summary,Report,56624,0,"Admission Date:  [2151-08-13]       Discharge Date:  [2151-08-17]
 Date of Birth:   [2070-10-11]      Sex:  F
 Service:  MEDICINE
 
@@ -3725,7 +3725,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-63,40286,109698,2193-10-20,2193-10-20 13:18:00,2193-10-20 13:18:00,Discharge summary,Report,51003,0,"Admission Date:  [2193-10-15]       Discharge Date:  [2193-10-20]
+63,40286,109698,2193-10-20,2193-10-20 13:18:00,2193-10-20 13:18:00,Discharge summary,Report,34880,0,"Admission Date:  [2193-10-15]       Discharge Date:  [2193-10-20]
 Date of Birth:   [2110-04-02]      Sex:  F
 Service:  MEDICINE
 
@@ -3791,7 +3791,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-64,40304,174997,2163-12-01,2163-12-01 11:00:00,2163-12-01 11:00:00,Discharge summary,Report,49177,0,"Admission Date:  [2163-11-21]       Discharge Date:  [2163-12-01]
+64,40304,174997,2163-12-01,2163-12-01 11:00:00,2163-12-01 11:00:00,Discharge summary,Report,78378,0,"Admission Date:  [2163-11-21]       Discharge Date:  [2163-12-01]
 Date of Birth:   [2086-12-16]      Sex:  M
 Service:  MEDICINE
 
@@ -3854,7 +3854,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-65,40310,186361,2144-11-12,2144-11-12 14:40:00,2144-11-12 14:40:00,Discharge summary,Report,53071,0,"Admission Date:  [2144-07-11]       Discharge Date:  [2144-11-12]
+65,40310,186361,2144-11-12,2144-11-12 14:40:00,2144-11-12 14:40:00,Discharge summary,Report,85586,0,"Admission Date:  [2144-07-11]       Discharge Date:  [2144-11-12]
 Date of Birth:   [2103-12-05]      Sex:  M
 Service:  MEDICINE
 
@@ -4025,7 +4025,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-66,40310,157609,2144-12-31,2144-12-31 16:40:00,2144-12-31 16:40:00,Discharge summary,Report,24784,0,"Admission Date:  [2144-12-24]       Discharge Date:  [2144-12-31]
+66,40310,157609,2144-12-31,2144-12-31 16:40:00,2144-12-31 16:40:00,Discharge summary,Report,22138,0,"Admission Date:  [2144-12-24]       Discharge Date:  [2144-12-31]
 Date of Birth:   [2103-12-05]      Sex:  M
 Service:  MEDICINE
 
@@ -4094,7 +4094,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-67,40456,161765,2118-10-09,2118-10-09 13:30:00,2118-10-09 13:30:00,Discharge summary,Report,25726,0,"Admission Date:  [2118-10-06]       Discharge Date:  [2118-10-09]
+67,40456,161765,2118-10-09,2118-10-09 13:30:00,2118-10-09 13:30:00,Discharge summary,Report,31197,0,"Admission Date:  [2118-10-06]       Discharge Date:  [2118-10-09]
 Date of Birth:   [2031-08-12]      Sex:  F
 Service:  MEDICINE
 
@@ -4142,7 +4142,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-68,40503,168803,2186-07-07,2186-07-07 19:00:00,2186-07-07 19:00:00,Discharge summary,Report,34723,0,"Admission Date:  [2186-07-06]       Discharge Date:  [2186-07-07]
+68,40503,168803,2186-07-07,2186-07-07 19:00:00,2186-07-07 19:00:00,Discharge summary,Report,97514,0,"Admission Date:  [2186-07-06]       Discharge Date:  [2186-07-07]
 Date of Birth:   [2097-11-14]      Sex:  F
 Service:  MEDICINE
 
@@ -4188,7 +4188,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-69,40595,116518,2144-10-24,2144-10-24 09:00:00,2144-10-24 09:00:00,Discharge summary,Report,32578,0,"Admission Date:  [2144-10-15]       Discharge Date:  [2144-10-24]
+69,40595,116518,2144-10-24,2144-10-24 09:00:00,2144-10-24 09:00:00,Discharge summary,Report,30154,0,"Admission Date:  [2144-10-15]       Discharge Date:  [2144-10-24]
 Date of Birth:   [2068-03-04]      Sex:  F
 Service:  MEDICINE
 
@@ -4271,7 +4271,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-70,40601,182879,2184-08-10,2184-08-10 15:30:00,2184-08-10 15:30:00,Discharge summary,Report,34719,0,"Admission Date:  [2184-08-04]       Discharge Date:  [2184-08-10]
+70,40601,182879,2184-08-10,2184-08-10 15:30:00,2184-08-10 15:30:00,Discharge summary,Report,40268,0,"Admission Date:  [2184-08-04]       Discharge Date:  [2184-08-10]
 Date of Birth:   [2112-01-20]      Sex:  F
 Service:  MEDICINE
 
@@ -4337,7 +4337,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-71,40612,104697,2159-11-22,2159-11-22 14:15:00,2159-11-22 14:15:00,Discharge summary,Report,42216,0,"Admission Date:  [2159-11-17]       Discharge Date:  [2159-11-22]
+71,40612,104697,2159-11-22,2159-11-22 14:15:00,2159-11-22 14:15:00,Discharge summary,Report,16915,0,"Admission Date:  [2159-11-17]       Discharge Date:  [2159-11-22]
 Date of Birth:   [2073-08-13]      Sex:  F
 Service:  MEDICINE
 
@@ -4406,7 +4406,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-72,40655,126002,2144-07-28,2144-07-28 14:41:00,2144-07-28 14:41:00,Discharge summary,Report,91189,0,"Admission Date:  [2144-07-18]       Discharge Date:  [2144-07-28]
+72,40655,126002,2144-07-28,2144-07-28 14:41:00,2144-07-28 14:41:00,Discharge summary,Report,48700,0,"Admission Date:  [2144-07-18]       Discharge Date:  [2144-07-28]
 Date of Birth:   [1844-07-18]      Sex:  F
 Service:  MEDICINE
 
@@ -4470,7 +4470,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-73,40687,129273,2155-03-11,2155-03-11 15:00:00,2155-03-11 15:00:00,Discharge summary,Report,54581,0,"Admission Date:  [2155-03-08]       Discharge Date:  [2155-03-11]
+73,40687,129273,2155-03-11,2155-03-11 15:00:00,2155-03-11 15:00:00,Discharge summary,Report,10079,0,"Admission Date:  [2155-03-08]       Discharge Date:  [2155-03-11]
 Date of Birth:   [2073-06-05]      Sex:  F
 Service:  MEDICINE
 
@@ -4517,7 +4517,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-74,41795,138132,2145-07-20,2145-07-20 19:15:00,2145-07-20 19:15:00,Discharge summary,Report,96804,0,"Admission Date:  [2145-07-07]       Discharge Date:  [2145-07-20]
+74,41795,138132,2145-07-20,2145-07-20 19:15:00,2145-07-20 19:15:00,Discharge summary,Report,60255,0,"Admission Date:  [2145-07-07]       Discharge Date:  [2145-07-20]
 Date of Birth:   [2096-07-25]      Sex:  M
 Service:  MEDICINE
 
@@ -4597,7 +4597,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-75,41795,118192,2145-09-09,2145-09-09 16:25:00,2145-09-09 16:25:00,Discharge summary,Report,34411,0,"Admission Date:  [2145-09-06]       Discharge Date:  [2145-09-09]
+75,41795,118192,2145-09-09,2145-09-09 16:25:00,2145-09-09 16:25:00,Discharge summary,Report,10588,0,"Admission Date:  [2145-09-06]       Discharge Date:  [2145-09-09]
 Date of Birth:   [2096-07-25]      Sex:  M
 Service:  MEDICINE
 
@@ -4659,7 +4659,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-76,41914,101361,2145-12-18,2145-12-18 17:45:00,2145-12-18 17:45:00,Discharge summary,Report,44535,0,"Admission Date:  [2145-12-01]       Discharge Date:  [2145-12-18]
+76,41914,101361,2145-12-18,2145-12-18 17:45:00,2145-12-18 17:45:00,Discharge summary,Report,99579,0,"Admission Date:  [2145-12-01]       Discharge Date:  [2145-12-18]
 Date of Birth:   [2090-11-16]      Sex:  M
 Service:  MEDICINE
 
@@ -4727,7 +4727,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-77,41976,125449,2198-11-05,2198-11-05 15:20:00,2198-11-05 15:20:00,Discharge summary,Report,17111,0,"Admission Date:  [2198-10-29]       Discharge Date:  [2198-11-05]
+77,41976,125449,2198-11-05,2198-11-05 15:20:00,2198-11-05 15:20:00,Discharge summary,Report,24587,0,"Admission Date:  [2198-10-29]       Discharge Date:  [2198-11-05]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -4796,7 +4796,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-78,41976,173269,2199-01-16,2199-01-16 15:23:00,2199-01-16 15:23:00,Discharge summary,Report,21298,0,"Admission Date:  [2199-01-13]       Discharge Date:  [2199-01-16]
+78,41976,173269,2199-01-16,2199-01-16 15:23:00,2199-01-16 15:23:00,Discharge summary,Report,41653,0,"Admission Date:  [2199-01-13]       Discharge Date:  [2199-01-16]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -4872,7 +4872,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-79,41976,176016,2199-02-14,2199-02-14 13:22:00,2199-02-14 13:22:00,Discharge summary,Report,89140,0,"Admission Date:  [2199-01-31]       Discharge Date:  [2199-02-14]
+79,41976,176016,2199-02-14,2199-02-14 13:22:00,2199-02-14 13:22:00,Discharge summary,Report,10267,0,"Admission Date:  [2199-01-31]       Discharge Date:  [2199-02-14]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -4955,7 +4955,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-80,41976,172082,2200-03-28,2200-03-28 17:00:00,2200-03-28 17:00:00,Discharge summary,Report,80855,0,"Admission Date:  [2200-03-17]       Discharge Date:  [2200-03-28]
+80,41976,172082,2200-03-28,2200-03-28 17:00:00,2200-03-28 17:00:00,Discharge summary,Report,93568,0,"Admission Date:  [2200-03-17]       Discharge Date:  [2200-03-28]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5037,7 +5037,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-81,41976,152032,2200-06-13,2200-06-13 18:10:00,2200-06-13 18:10:00,Discharge summary,Report,82277,0,"Admission Date:  [2200-06-09]       Discharge Date:  [2200-06-13]
+81,41976,152032,2200-06-13,2200-06-13 18:10:00,2200-06-13 18:10:00,Discharge summary,Report,55436,0,"Admission Date:  [2200-06-09]       Discharge Date:  [2200-06-13]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5108,7 +5108,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-82,41976,130681,2200-11-03,2200-11-03 18:45:00,2200-11-03 18:45:00,Discharge summary,Report,80578,0,"Admission Date:  [2200-10-29]       Discharge Date:  [2200-11-03]
+82,41976,130681,2200-11-03,2200-11-03 18:45:00,2200-11-03 18:45:00,Discharge summary,Report,39202,0,"Admission Date:  [2200-10-29]       Discharge Date:  [2200-11-03]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5183,7 +5183,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-83,41976,180546,2201-05-19,2201-05-19 14:04:00,2201-05-19 14:04:00,Discharge summary,Report,65439,0,"Admission Date:  [2201-05-12]       Discharge Date:  [2201-05-19]
+83,41976,180546,2201-05-19,2201-05-19 14:04:00,2201-05-19 14:04:00,Discharge summary,Report,87846,0,"Admission Date:  [2201-05-12]       Discharge Date:  [2201-05-19]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5252,7 +5252,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-84,41976,174863,2201-08-13,2201-08-13 16:55:00,2201-08-13 16:55:00,Discharge summary,Report,14542,0,"Admission Date:  [2201-08-10]       Discharge Date:  [2201-08-13]
+84,41976,174863,2201-08-13,2201-08-13 16:55:00,2201-08-13 16:55:00,Discharge summary,Report,29977,0,"Admission Date:  [2201-08-10]       Discharge Date:  [2201-08-13]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5311,7 +5311,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-85,41976,125013,2201-10-01,2201-10-01 15:53:00,2201-10-01 15:53:00,Discharge summary,Report,62026,0,"Admission Date:  [2201-09-28]       Discharge Date:  [2201-10-01]
+85,41976,125013,2201-10-01,2201-10-01 15:53:00,2201-10-01 15:53:00,Discharge summary,Report,89298,0,"Admission Date:  [2201-09-28]       Discharge Date:  [2201-10-01]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5381,7 +5381,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-86,41976,155297,2201-11-19,2201-11-19 16:30:00,2201-11-19 16:30:00,Discharge summary,Report,98695,0,"Admission Date:  [2201-11-16]       Discharge Date:  [2201-11-19]
+86,41976,155297,2201-11-19,2201-11-19 16:30:00,2201-11-19 16:30:00,Discharge summary,Report,10619,0,"Admission Date:  [2201-11-16]       Discharge Date:  [2201-11-19]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5444,7 +5444,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-87,41976,179418,2202-01-03,2202-01-03 17:55:00,2202-01-03 17:55:00,Discharge summary,Report,87639,0,"Admission Date:  [2201-12-31]       Discharge Date:  [2202-01-03]
+87,41976,179418,2202-01-03,2202-01-03 17:55:00,2202-01-03 17:55:00,Discharge summary,Report,32038,0,"Admission Date:  [2201-12-31]       Discharge Date:  [2202-01-03]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5500,7 +5500,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-88,41976,151798,2202-02-19,2202-02-19 16:42:00,2202-02-19 16:42:00,Discharge summary,Report,66798,0,"Admission Date:  [2202-02-15]       Discharge Date:  [2202-02-19]
+88,41976,151798,2202-02-19,2202-02-19 16:42:00,2202-02-19 16:42:00,Discharge summary,Report,68297,0,"Admission Date:  [2202-02-15]       Discharge Date:  [2202-02-19]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5558,7 +5558,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-89,41976,145024,2202-05-04,2202-05-04 18:42:00,2202-05-04 18:42:00,Discharge summary,Report,33728,0,"Admission Date:  [2202-05-01]       Discharge Date:  [2202-05-04]
+89,41976,145024,2202-05-04,2202-05-04 18:42:00,2202-05-04 18:42:00,Discharge summary,Report,25166,0,"Admission Date:  [2202-05-01]       Discharge Date:  [2202-05-04]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5615,7 +5615,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-90,41976,149469,2202-09-23,2202-09-23 16:20:00,2202-09-23 16:20:00,Discharge summary,Report,86272,0,"Admission Date:  [2202-09-16]       Discharge Date:  [2202-09-23]
+90,41976,149469,2202-09-23,2202-09-23 16:20:00,2202-09-23 16:20:00,Discharge summary,Report,83256,0,"Admission Date:  [2202-09-16]       Discharge Date:  [2202-09-23]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5679,7 +5679,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-91,41976,153826,2202-10-11,2202-10-11 16:30:00,2202-10-11 16:30:00,Discharge summary,Report,79861,0,"Admission Date:  [2202-10-03]       Discharge Date:  [2202-10-11]
+91,41976,153826,2202-10-11,2202-10-11 16:30:00,2202-10-11 16:30:00,Discharge summary,Report,65089,0,"Admission Date:  [2202-10-03]       Discharge Date:  [2202-10-11]
 Date of Birth:   [2136-07-28]      Sex:  M
 Service:  MEDICINE
 
@@ -5754,7 +5754,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-92,41983,107689,2151-09-15,2151-09-15 00:45:00,2151-09-15 00:45:00,Discharge summary,Report,96988,0,"Admission Date:  [2151-09-12]       Discharge Date:  [2151-09-15]
+92,41983,107689,2151-09-15,2151-09-15 00:45:00,2151-09-15 00:45:00,Discharge summary,Report,96068,0,"Admission Date:  [2151-09-12]       Discharge Date:  [2151-09-15]
 Date of Birth:   [1851-09-12]      Sex:  F
 Service:  MEDICINE
 
@@ -5807,7 +5807,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-93,42033,154156,2131-07-28,2131-07-28 16:02:00,2131-07-28 16:02:00,Discharge summary,Report,35052,0,"Admission Date:  [2131-07-26]       Discharge Date:  [2131-07-28]
+93,42033,154156,2131-07-28,2131-07-28 16:02:00,2131-07-28 16:02:00,Discharge summary,Report,36515,0,"Admission Date:  [2131-07-26]       Discharge Date:  [2131-07-28]
 Date of Birth:   [2045-10-07]      Sex:  F
 Service:  MEDICINE
 
@@ -5849,7 +5849,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-94,42066,171628,2112-02-11,2112-02-11 12:00:00,2112-02-11 12:00:00,Discharge summary,Report,48054,0,"Admission Date:  [2112-02-04]       Discharge Date:  [2112-02-11]
+94,42066,171628,2112-02-11,2112-02-11 12:00:00,2112-02-11 12:00:00,Discharge summary,Report,76814,0,"Admission Date:  [2112-02-04]       Discharge Date:  [2112-02-11]
 Date of Birth:   [2061-06-13]      Sex:  M
 Service:  MEDICINE
 
@@ -5915,7 +5915,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-95,42075,151323,2166-02-26,2166-02-26 00:00:00,2166-02-26 00:00:00,Discharge summary,Report,92626,0,"Admission Date:  [2166-02-12]       Discharge Date:  [2166-02-26]
+95,42075,151323,2166-02-26,2166-02-26 00:00:00,2166-02-26 00:00:00,Discharge summary,Report,50510,0,"Admission Date:  [2166-02-12]       Discharge Date:  [2166-02-26]
 Date of Birth:   [2086-02-04]      Sex:  M
 Service:  MEDICINE
 
@@ -6000,7 +6000,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-96,42135,102203,2127-08-04,2127-08-04 16:00:00,2127-08-04 16:00:00,Discharge summary,Report,89685,0,"Admission Date:  [2127-07-23]       Discharge Date:  [2127-08-04]
+96,42135,102203,2127-08-04,2127-08-04 16:00:00,2127-08-04 16:00:00,Discharge summary,Report,80041,0,"Admission Date:  [2127-07-23]       Discharge Date:  [2127-08-04]
 Date of Birth:   [2083-09-20]      Sex:  M
 Service:  MEDICINE
 
@@ -6062,7 +6062,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-97,42135,117105,2127-10-28,2127-10-28 12:50:00,2127-10-28 12:50:00,Discharge summary,Report,78936,0,"Admission Date:  [2127-10-06]       Discharge Date:  [2127-10-28]
+97,42135,117105,2127-10-28,2127-10-28 12:50:00,2127-10-28 12:50:00,Discharge summary,Report,70305,0,"Admission Date:  [2127-10-06]       Discharge Date:  [2127-10-28]
 Date of Birth:   [2083-09-20]      Sex:  M
 Service:  MEDICINE
 
@@ -6146,7 +6146,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-98,42199,178513,2117-03-31,2117-03-31 12:10:00,2117-03-31 12:10:00,Discharge summary,Report,11180,0,"Admission Date:  [2117-03-21]       Discharge Date:  [2117-03-31]
+98,42199,178513,2117-03-31,2117-03-31 12:10:00,2117-03-31 12:10:00,Discharge summary,Report,16319,0,"Admission Date:  [2117-03-21]       Discharge Date:  [2117-03-31]
 Date of Birth:   [2044-06-27]      Sex:  F
 Service:  MEDICINE
 
@@ -6210,7 +6210,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-99,42231,171878,2102-09-06,2102-09-06 16:20:00,2102-09-06 16:20:00,Discharge summary,Report,88583,0,"Admission Date:  [2102-08-29]       Discharge Date:  [2102-09-06]
+99,42231,171878,2102-09-06,2102-09-06 16:20:00,2102-09-06 16:20:00,Discharge summary,Report,66063,0,"Admission Date:  [2102-08-29]       Discharge Date:  [2102-09-06]
 Date of Birth:   [2016-12-05]      Sex:  F
 Service:  MEDICINE
 
@@ -6269,7 +6269,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-100,42275,128293,2135-10-27,2135-10-27 17:22:00,2135-10-27 17:22:00,Discharge summary,Report,44720,0,"Admission Date:  [2135-10-24]       Discharge Date:  [2135-10-27]
+100,42275,128293,2135-10-27,2135-10-27 17:22:00,2135-10-27 17:22:00,Discharge summary,Report,30257,0,"Admission Date:  [2135-10-24]       Discharge Date:  [2135-10-27]
 Date of Birth:   [2058-08-04]      Sex:  M
 Service:  MEDICINE
 
@@ -6313,7 +6313,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-101,42281,195911,2119-11-14,2119-11-14 09:30:00,2119-11-14 09:30:00,Discharge summary,Report,19188,0,"Admission Date:  [2119-10-17]       Discharge Date:  [2119-11-14]
+101,42281,195911,2119-11-14,2119-11-14 09:30:00,2119-11-14 09:30:00,Discharge summary,Report,60096,0,"Admission Date:  [2119-10-17]       Discharge Date:  [2119-11-14]
 Date of Birth:   [2051-03-23]      Sex:  F
 Service:  MEDICINE
 
@@ -6409,7 +6409,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-102,42292,138503,2162-01-19,2162-01-19 13:45:00,2162-01-19 13:45:00,Discharge summary,Report,58281,0,"Admission Date:  [2162-01-16]       Discharge Date:  [2162-01-19]
+102,42292,138503,2162-01-19,2162-01-19 13:45:00,2162-01-19 13:45:00,Discharge summary,Report,70011,0,"Admission Date:  [2162-01-16]       Discharge Date:  [2162-01-19]
 Date of Birth:   [2098-04-29]      Sex:  M
 Service:  MEDICINE
 
@@ -6464,7 +6464,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-103,42302,167754,2160-05-08,2160-05-08 11:55:00,2160-05-08 11:55:00,Discharge summary,Report,85923,0,"Admission Date:  [2160-05-04]       Discharge Date:  [2160-05-08]
+103,42302,167754,2160-05-08,2160-05-08 11:55:00,2160-05-08 11:55:00,Discharge summary,Report,27246,0,"Admission Date:  [2160-05-04]       Discharge Date:  [2160-05-08]
 Date of Birth:   [2074-09-29]      Sex:  F
 Service:  MEDICINE
 
@@ -6519,7 +6519,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-104,42321,114648,2121-12-12,2121-12-12 16:40:00,2121-12-12 16:40:00,Discharge summary,Report,28334,0,"Admission Date:  [2121-12-07]       Discharge Date:  [2121-12-12]
+104,42321,114648,2121-12-12,2121-12-12 16:40:00,2121-12-12 16:40:00,Discharge summary,Report,58334,0,"Admission Date:  [2121-12-07]       Discharge Date:  [2121-12-12]
 Date of Birth:   [2041-05-16]      Sex:  F
 Service:  MEDICINE
 
@@ -6580,7 +6580,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-105,42346,180391,2160-12-21,2160-12-21 15:30:00,2160-12-21 15:30:00,Discharge summary,Report,82388,0,"Admission Date:  [2160-12-16]       Discharge Date:  [2160-12-21]
+105,42346,180391,2160-12-21,2160-12-21 15:30:00,2160-12-21 15:30:00,Discharge summary,Report,30264,0,"Admission Date:  [2160-12-16]       Discharge Date:  [2160-12-21]
 Date of Birth:   [2072-12-03]      Sex:  F
 Service:  MEDICINE
 
@@ -6638,7 +6638,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-106,42346,175880,2160-12-27,2160-12-27 07:45:00,2160-12-27 07:45:00,Discharge summary,Report,66436,0,"Admission Date:  [2160-12-26]       Discharge Date:  [2160-12-27]
+106,42346,175880,2160-12-27,2160-12-27 07:45:00,2160-12-27 07:45:00,Discharge summary,Report,33606,0,"Admission Date:  [2160-12-26]       Discharge Date:  [2160-12-27]
 Date of Birth:   [2072-12-03]      Sex:  F
 Service:  MEDICINE
 
@@ -6674,7 +6674,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-107,42367,139932,2147-11-04,2147-11-04 19:30:00,2147-11-04 19:30:00,Discharge summary,Report,87193,0,"Admission Date:  [2147-10-03]       Discharge Date:  [2147-11-04]
+107,42367,139932,2147-11-04,2147-11-04 19:30:00,2147-11-04 19:30:00,Discharge summary,Report,18852,0,"Admission Date:  [2147-10-03]       Discharge Date:  [2147-11-04]
 Date of Birth:   [2060-02-12]      Sex:  F
 Service:  MEDICINE
 
@@ -6760,7 +6760,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-108,42412,114867,2165-12-25,2165-12-25 14:20:00,2165-12-25 14:20:00,Discharge summary,Report,45637,0,"Admission Date:  [2165-12-19]       Discharge Date:  [2165-12-25]
+108,42412,114867,2165-12-25,2165-12-25 14:20:00,2165-12-25 14:20:00,Discharge summary,Report,58264,0,"Admission Date:  [2165-12-19]       Discharge Date:  [2165-12-25]
 Date of Birth:   [2079-01-29]      Sex:  M
 Service:  MEDICINE
 
@@ -6820,7 +6820,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-109,42430,100969,2142-11-30,2142-11-30 10:55:00,2142-11-30 10:55:00,Discharge summary,Report,84376,0,"Admission Date:  [2142-11-26]       Discharge Date:  [2142-11-30]
+109,42430,100969,2142-11-30,2142-11-30 10:55:00,2142-11-30 10:55:00,Discharge summary,Report,81733,0,"Admission Date:  [2142-11-26]       Discharge Date:  [2142-11-30]
 Date of Birth:   [2061-12-10]      Sex:  M
 Service:  MEDICINE
 
@@ -6884,7 +6884,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-110,42458,159647,2146-07-22,2146-07-22 14:45:00,2146-07-22 14:45:00,Discharge summary,Report,28839,0,"Admission Date:  [2146-07-21]       Discharge Date:  [2146-07-22]
+110,42458,159647,2146-07-22,2146-07-22 14:45:00,2146-07-22 14:45:00,Discharge summary,Report,15420,0,"Admission Date:  [2146-07-21]       Discharge Date:  [2146-07-22]
 Date of Birth:   [1846-07-21]      Sex:  M
 Service:  MEDICINE
 
@@ -6926,7 +6926,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-111,43735,112662,2128-11-09,2128-11-09 12:00:00,2128-11-09 12:00:00,Discharge summary,Report,55295,0,"Admission Date:  [2128-11-04]       Discharge Date:  [2128-11-09]
+111,43735,112662,2128-11-09,2128-11-09 12:00:00,2128-11-09 12:00:00,Discharge summary,Report,68596,0,"Admission Date:  [2128-11-04]       Discharge Date:  [2128-11-09]
 Date of Birth:   [2046-07-05]      Sex:  M
 Service:  MEDICINE
 
@@ -6995,7 +6995,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-112,43746,167181,2111-01-14,2111-01-14 15:19:00,2111-01-14 15:19:00,Discharge summary,Report,71333,0,"Admission Date:  [2110-12-29]       Discharge Date:  [2111-01-14]
+112,43746,167181,2111-01-14,2111-01-14 15:19:00,2111-01-14 15:19:00,Discharge summary,Report,99980,0,"Admission Date:  [2110-12-29]       Discharge Date:  [2111-01-14]
 Date of Birth:   [2029-12-07]      Sex:  F
 Service:  MEDICINE
 
@@ -7067,7 +7067,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-113,43748,121860,2179-04-23,2179-04-23 12:55:00,2179-04-23 12:55:00,Discharge summary,Report,47320,0,"Admission Date:  [2179-04-17]       Discharge Date:  [2179-04-23]
+113,43748,121860,2179-04-23,2179-04-23 12:55:00,2179-04-23 12:55:00,Discharge summary,Report,64600,0,"Admission Date:  [2179-04-17]       Discharge Date:  [2179-04-23]
 Date of Birth:   [2099-09-02]      Sex:  M
 Service:  MEDICINE
 
@@ -7125,7 +7125,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-114,43779,186071,2173-11-30,2173-11-30 15:50:00,2173-11-30 15:50:00,Discharge summary,Report,48058,0,"Admission Date:  [2173-11-27]       Discharge Date:  [2173-11-30]
+114,43779,186071,2173-11-30,2173-11-30 15:50:00,2173-11-30 15:50:00,Discharge summary,Report,37245,0,"Admission Date:  [2173-11-27]       Discharge Date:  [2173-11-30]
 Date of Birth:   [2097-01-07]      Sex:  M
 Service:  MEDICINE
 
@@ -7178,7 +7178,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-115,43798,130870,2198-08-07,2198-08-07 23:59:00,2198-08-07 23:59:00,Discharge summary,Report,38244,0,"Admission Date:  [2198-06-29]       Discharge Date:  [2198-08-07]
+115,43798,130870,2198-08-07,2198-08-07 23:59:00,2198-08-07 23:59:00,Discharge summary,Report,35826,0,"Admission Date:  [2198-06-29]       Discharge Date:  [2198-08-07]
 Date of Birth:   [2136-07-29]      Sex:  M
 Service:  MEDICINE
 
@@ -7244,7 +7244,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-116,43827,149950,2176-07-18,2176-07-18 15:00:00,2176-07-18 15:00:00,Discharge summary,Report,32568,0,"Admission Date:  [2176-07-14]       Discharge Date:  [2176-07-18]
+116,43827,149950,2176-07-18,2176-07-18 15:00:00,2176-07-18 15:00:00,Discharge summary,Report,82548,0,"Admission Date:  [2176-07-14]       Discharge Date:  [2176-07-18]
 Date of Birth:   [1876-07-14]      Sex:  F
 Service:  MEDICINE
 
@@ -7291,7 +7291,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-117,43870,142633,2186-02-12,2186-02-12 00:07:00,2186-02-12 00:07:00,Discharge summary,Report,90649,0,"Admission Date:  [2186-02-09]       Discharge Date:  [2186-02-12]
+117,43870,142633,2186-02-12,2186-02-12 00:07:00,2186-02-12 00:07:00,Discharge summary,Report,75966,0,"Admission Date:  [2186-02-09]       Discharge Date:  [2186-02-12]
 Date of Birth:   [2097-05-16]      Sex:  F
 Service:  MEDICINE
 
@@ -7348,7 +7348,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-118,43879,158100,2106-08-31,2106-08-31 15:15:00,2106-08-31 15:15:00,Discharge summary,Report,96589,0,"Admission Date:  [2106-08-30]       Discharge Date:  [2106-08-31]
+118,43879,158100,2106-08-31,2106-08-31 15:15:00,2106-08-31 15:15:00,Discharge summary,Report,98724,0,"Admission Date:  [2106-08-30]       Discharge Date:  [2106-08-31]
 Date of Birth:   [2051-07-25]      Sex:  F
 Service:  MEDICINE
 
@@ -7390,7 +7390,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-119,43881,172454,2104-09-30,2104-09-30 16:17:00,2104-09-30 16:17:00,Discharge summary,Report,41596,0,"Admission Date:  [2104-09-24]       Discharge Date:  [2104-09-30]
+119,43881,172454,2104-09-30,2104-09-30 16:17:00,2104-09-30 16:17:00,Discharge summary,Report,84286,0,"Admission Date:  [2104-09-24]       Discharge Date:  [2104-09-30]
 Date of Birth:   [2051-03-24]      Sex:  M
 Service:  MEDICINE
 
@@ -7454,7 +7454,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-120,43881,167021,2104-11-01,2104-11-01 11:59:00,2104-11-01 11:59:00,Discharge summary,Report,92394,0,"Admission Date:  [2104-10-24]       Discharge Date:  [2104-11-01]
+120,43881,167021,2104-11-01,2104-11-01 11:59:00,2104-11-01 11:59:00,Discharge summary,Report,81427,0,"Admission Date:  [2104-10-24]       Discharge Date:  [2104-11-01]
 Date of Birth:   [2051-03-24]      Sex:  M
 Service:  MEDICINE
 
@@ -7512,7 +7512,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-121,43909,167612,2152-10-09,2152-10-09 22:33:00,2152-10-09 22:33:00,Discharge summary,Report,15091,0,"Admission Date:  [2152-10-09]       Discharge Date:  [2152-10-09]
+121,43909,167612,2152-10-09,2152-10-09 22:33:00,2152-10-09 22:33:00,Discharge summary,Report,53204,0,"Admission Date:  [2152-10-09]       Discharge Date:  [2152-10-09]
 Date of Birth:   [2073-11-22]      Sex:  F
 Service:  MEDICINE
 
@@ -7563,7 +7563,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-122,43927,110958,2175-10-06,2175-10-06 15:00:00,2175-10-06 15:00:00,Discharge summary,Report,41772,0,"Admission Date:  [2175-10-02]       Discharge Date:  [2175-10-06]
+122,43927,110958,2175-10-06,2175-10-06 15:00:00,2175-10-06 15:00:00,Discharge summary,Report,27248,0,"Admission Date:  [2175-10-02]       Discharge Date:  [2175-10-06]
 Date of Birth:   [2104-02-12]      Sex:  F
 Service:  MEDICINE
 
@@ -7638,7 +7638,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-123,44083,125157,2112-05-11,2112-05-11 14:15:00,2112-05-11 14:15:00,Discharge summary,Report,93384,0,"Admission Date:  [2112-05-04]       Discharge Date:  [2112-05-11]
+123,44083,125157,2112-05-11,2112-05-11 14:15:00,2112-05-11 14:15:00,Discharge summary,Report,38973,0,"Admission Date:  [2112-05-04]       Discharge Date:  [2112-05-11]
 Date of Birth:   [2057-11-15]      Sex:  M
 Service:  MEDICINE
 
@@ -7692,7 +7692,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-124,44083,131048,2112-05-25,2112-05-25 13:30:00,2112-05-25 13:30:00,Discharge summary,Report,12985,0,"Admission Date:  [2112-05-22]       Discharge Date:  [2112-05-25]
+124,44083,131048,2112-05-25,2112-05-25 13:30:00,2112-05-25 13:30:00,Discharge summary,Report,15394,0,"Admission Date:  [2112-05-22]       Discharge Date:  [2112-05-25]
 Date of Birth:   [2057-11-15]      Sex:  M
 Service:  MEDICINE
 
@@ -7733,7 +7733,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-125,44083,198330,2112-06-07,2112-06-07 16:50:00,2112-06-07 16:50:00,Discharge summary,Report,87903,0,"Admission Date:  [2112-05-28]       Discharge Date:  [2112-06-07]
+125,44083,198330,2112-06-07,2112-06-07 16:50:00,2112-06-07 16:50:00,Discharge summary,Report,78481,0,"Admission Date:  [2112-05-28]       Discharge Date:  [2112-06-07]
 Date of Birth:   [2057-11-15]      Sex:  M
 Service:  MEDICINE
 
@@ -7788,7 +7788,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-126,44154,174245,2178-05-15,2178-05-15 09:45:00,2178-05-15 09:45:00,Discharge summary,Report,69195,0,"Admission Date:  [2178-05-14]       Discharge Date:  [2178-05-15]
+126,44154,174245,2178-05-15,2178-05-15 09:45:00,2178-05-15 09:45:00,Discharge summary,Report,49338,0,"Admission Date:  [2178-05-14]       Discharge Date:  [2178-05-15]
 Date of Birth:   [1878-05-14]      Sex:  M
 Service:  MEDICINE
 
@@ -7843,7 +7843,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-127,44212,163189,2123-12-30,2123-12-30 14:31:00,2123-12-30 14:31:00,Discharge summary,Report,97278,0,"Admission Date:  [2123-11-24]       Discharge Date:  [2123-12-30]
+127,44212,163189,2123-12-30,2123-12-30 14:31:00,2123-12-30 14:31:00,Discharge summary,Report,32395,0,"Admission Date:  [2123-11-24]       Discharge Date:  [2123-12-30]
 Date of Birth:   [2078-06-16]      Sex:  F
 Service:  MEDICINE
 
@@ -7941,7 +7941,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-128,44222,192189,2180-07-20,2180-07-20 13:00:00,2180-07-20 13:00:00,Discharge summary,Report,66729,0,"Admission Date:  [2180-07-19]       Discharge Date:  [2180-07-20]
+128,44222,192189,2180-07-20,2180-07-20 13:00:00,2180-07-20 13:00:00,Discharge summary,Report,62604,0,"Admission Date:  [2180-07-19]       Discharge Date:  [2180-07-20]
 Date of Birth:   [2107-06-27]      Sex:  M
 Service:  MEDICINE
 
@@ -7984,7 +7984,7 @@ Discharge Instructions:
 2. Follow up with PCP in 1-2 weeks.
 3. Return to the Emergency Department if symptoms worsen or you experience chest pain, severe shortness of breath, or new concerning symptoms.
 "
-129,44228,103379,2170-12-24,2170-12-24 18:00:00,2170-12-24 18:00:00,Discharge summary,Report,79953,0,"Admission Date:  [2170-12-15]       Discharge Date:  [2170-12-24]
+129,44228,103379,2170-12-24,2170-12-24 18:00:00,2170-12-24 18:00:00,Discharge summary,Report,67819,0,"Admission Date:  [2170-12-15]       Discharge Date:  [2170-12-24]
 Date of Birth:   [2112-10-22]      Sex:  F
 Service:  MEDICINE
 

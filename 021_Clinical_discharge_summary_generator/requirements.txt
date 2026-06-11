@@ -6,3 +6,5 @@ fastapi
 uvicorn
 pandas
 python-dotenv
+rich
+fpdf2

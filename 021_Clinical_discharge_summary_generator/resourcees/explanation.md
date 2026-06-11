@@ -219,14 +219,14 @@ graph TD
 
 ---
 
-## 9. Resume-Ready Project Summary
+## 9. RR Summary
 
 - **One-Line Summary:** Architected an Agentic AI pipeline using LangGraph to automate and validate patient discharge summaries, reducing documentation time by over 80%.
 - **Three-Line Summary:**
   - Built a multi-agent LangGraph system for automated clinical note extraction, medication reconciliation, and SOAP note drafting.
   - Implemented strict Pydantic structured outputs and a dedicated safety validation node to mitigate LLM hallucinations in medical contexts.
   - Demonstrated potential enterprise savings of $730K/year per hospital by reducing physician administrative burden.
-- **Detailed Resume Version:**
+- **Detailed R Version:**
   - **Designed and deployed a multi-agent healthcare workflow** using LangGraph, chaining specialized LLMs to automate patient discharge summaries from raw unstructured clinical notes.
   - **Engineered a Medication Reconciliation algorithm** that cross-references LLM-extracted entities against ground-truth database records, flagging discrepancies to ensure patient safety.
   - **Enforced strict data contracts** using Pydantic and LLM tool-calling, eliminating JSON parsing failures and ensuring robust, deterministic outputs.
@@ -255,7 +255,7 @@ graph TD
 
 ---
 
-## 12. Interview Explanation Version
+## 12. I Explanation Version
 
 "In healthcare, physicians suffer from severe administrative burnout, spending hours synthesizing raw clinical notes into structured discharge summaries. The problem with traditional software is that it can't parse the complex, unstructured jargon of a medical narrative. And the problem with simply throwing a raw LLM at it—like a ChatGPT wrapper—is that it’s highly prone to hallucination, which is unacceptable when patient safety is on the line. 
 
